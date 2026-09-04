@@ -52,6 +52,42 @@ PRs welcome. No leaked system prompts. No star-farming.
 | [robiot/fable-os](https://github.com/robiot/fable-os) | Agentic OS concept with Claude in the kernel seat |
 
 
+
+## Pliny / elder-plinius (system prompts & Fable demos)
+
+Author archives from [elder-plinius](https://github.com/elder-plinius). Included on purpose — do not strip these when syncing other catalogs.
+
+### Fable demos
+
+| Repo | Notes |
+|------|--------|
+| [elder-plinius/FABLE-SHOWCASE](https://github.com/elder-plinius/FABLE-SHOWCASE) | 57 one-shot Fable 5 web demos (zero-deps `index.html`), ~275 parallel subagent runs |
+
+### System prompt archives (CL4R1T4S + living docs)
+
+| Link | Notes |
+|------|--------|
+| [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) | Multi-vendor leaked / captured system prompts (ChatGPT, Claude, Gemini, Grok, Cursor, …) |
+| [ANTHROPIC/CLAUDE-FABLE-5.md](https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/CLAUDE-FABLE-5.md) | Claude Fable 5 system prompt file |
+| [ANTHROPIC/Claude-Fable-5.1.md](https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/Claude-Fable-5.1.md) | Claude Fable 5.1 system prompt file |
+| [ANTHROPIC/OPUS-5.md](https://github.com/elder-plinius/CL4R1T4S/blob/main/ANTHROPIC/OPUS-5.md) | Opus 5 prompt file |
+| [ANTHROPIC/Claude_Code_*.md](https://github.com/elder-plinius/CL4R1T4S/tree/main/ANTHROPIC) | Claude Code and other Anthropic captures in the same folder |
+| [CLAUDE-CODE-SYSTEM-PROMPT](https://github.com/elder-plinius/CLAUDE-CODE-SYSTEM-PROMPT) | Living document for Claude Code system prompt (dated snapshots) |
+
+### Liberation / red-team prompt kits (Pliny)
+
+| Repo | Notes |
+|------|--------|
+| [L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) | Liberation / jailbreak-style prompt collection |
+| [G0DM0D3](https://github.com/elder-plinius/G0DM0D3) | Liberated AI chat experiments |
+| [OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) | Related liberation tooling |
+| [LEAKHUB](https://github.com/elder-plinius/LEAKHUB) | System prompt leak leaderboard |
+| [Misc.-Prompt-Hacks](https://github.com/elder-plinius/Misc.-Prompt-Hacks) | Assorted prompt hacks |
+| [AutoRedTeam](https://github.com/elder-plinius/AutoRedTeam) | Automating tests of prompt defenses |
+| [P4RS3LT0NGV3](https://github.com/elder-plinius/P4RS3LT0NGV3) | Text transform / promptcrafting engine |
+| [GLOSSOPETRAE](https://github.com/elder-plinius/GLOSSOPETRAE) | Linguistic engine for AI |
+| [T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | Multi-agent offensive-security / red-team meta-harness |
+
 ## Examples built with Claude Fable
 
 Apps, games, and demos that say they were made by / with Claude Fable 5 or 5.1.
