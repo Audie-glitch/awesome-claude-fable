@@ -51,6 +51,47 @@ PRs welcome. No leaked system prompts. No star-farming.
 | [PhiloLabs/fable51-worlds](https://github.com/PhiloLabs/fable51-worlds) | Worlds-via-code from Fable 5.1 |
 | [robiot/fable-os](https://github.com/robiot/fable-os) | Agentic OS concept with Claude in the kernel seat |
 
+
+## Examples built with Claude Fable
+
+Apps, games, and demos that say they were made by / with Claude Fable 5 or 5.1.
+
+### Worlds & galleries
+
+| Repo | Notes |
+|------|--------|
+| [Braffolk/fable5-world-demo](https://github.com/Braffolk/fable5-world-demo) | three.js capability-test world (Laas) |
+| [PhiloLabs/fable51-worlds](https://github.com/PhiloLabs/fable51-worlds) | Worlds via code from Fable 5.1 |
+| [pulkitxm/claude-directory](https://github.com/pulkitxm/claude-directory) | UI/3D interface components built with Fable 5 |
+| [MiaAI-Lab/Fable-5.1-100-HTML-Files](https://github.com/MiaAI-Lab/Fable-5.1-100-HTML-Files) | 100 one-file HTML visual studies + prompts |
+| [kdeverett918/made-with-fable](https://github.com/kdeverett918/made-with-fable) | Community gallery of Fable-built creations |
+| [karanb192/fable5-demos](https://github.com/karanb192/fable5-demos) | One-shot physics/math HTML sims |
+
+### Games
+
+| Repo | Notes |
+|------|--------|
+| [bridge-mind/turbo-kart-rush](https://github.com/bridge-mind/turbo-kart-rush) | Procedural Three.js kart racer; five Fable 5.1 sub-agents |
+| [bridge-mind/apex-formula](https://github.com/bridge-mind/apex-formula) | Browser F1 weekend sim; Fable 5.1 + ten sub-agents |
+| [INONONO66/fable-5.1-mario](https://github.com/INONONO66/fable-5.1-mario) | SMB 1-1 in one HTML file, one-shot |
+| [sorrycc/fable-arcade](https://github.com/sorrycc/fable-arcade) | HTML games one-shot by Fable 5.1+ |
+| [monsilaro/minecraft.js](https://github.com/monsilaro/minecraft.js) | Minecraft-in-three.js, made with Fable 5 |
+| [5kahoisaac/sunset-flap](https://github.com/5kahoisaac/sunset-flap) | 3D Flappy Bird |
+| [SaiAmartya/flappy-bird-3D](https://github.com/SaiAmartya/flappy-bird-3D) | AETHERWING 3D flappy odyssey |
+| [sbugrayy/Pocket-Soccer](https://github.com/sbugrayy/Pocket-Soccer) | Physics disc soccer in the browser |
+| [Angais/Fable5-mc](https://github.com/Angais/Fable5-mc) | Fable5-named Minecraft-related project |
+
+### Apps & tools
+
+| Repo | Notes |
+|------|--------|
+| [thebuggeddev/modkeys](https://github.com/thebuggeddev/modkeys) | 3D keyboard ecommerce platform |
+| [shakeebshaan/packet-highway](https://github.com/shakeebshaan/packet-highway) | Live packet traffic as 3D highway (Windows desktop) |
+| [theryanbyrd/asteroid_fable](https://github.com/theryanbyrd/asteroid_fable) | WebGL map of 1.55M asteroids (NASA/JPL) |
+| [teuzowebdeveloper9/world-light](https://github.com/teuzowebdeveloper9/world-light) | Infinite R3F procedural world |
+| [umomany/claudi](https://github.com/umomany/claudi) | Single-file browser Claude IDE, built by Fable 5 |
+| [justinbuildsmov/oracle](https://github.com/justinbuildsmov/oracle) | Head-to-head: Fable 5.1 vs GPT-6 Astra on prediction markets |
+
 ## Other catalogs
 
 | Repo | Notes |
