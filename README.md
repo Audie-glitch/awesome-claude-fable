@@ -61,7 +61,72 @@ Author archives from [elder-plinius](https://github.com/elder-plinius). Included
 
 | Repo | Notes |
 |------|--------|
-| [elder-plinius/FABLE-SHOWCASE](https://github.com/elder-plinius/FABLE-SHOWCASE) | 57 one-shot Fable 5 web demos (zero-deps `index.html`), ~275 parallel subagent runs |
+| [elder-plinius/FABLE-SHOWCASE](https://github.com/elder-plinius/FABLE-SHOWCASE) | 57 one-shot Fable 5 demos — live gallery: [elder-plinius.github.io/FABLE-SHOWCASE](https://elder-plinius.github.io/FABLE-SHOWCASE/) |
+
+### FABLE-SHOWCASE live (GitHub Pages)
+
+Gallery: [https://elder-plinius.github.io/FABLE-SHOWCASE/](https://elder-plinius.github.io/FABLE-SHOWCASE/)
+
+| Demo | Live |
+|------|------|
+| `arcana` | [https://elder-plinius.github.io/FABLE-SHOWCASE/arcana/](https://elder-plinius.github.io/FABLE-SHOWCASE/arcana/) |
+| `aurora` | [https://elder-plinius.github.io/FABLE-SHOWCASE/aurora/](https://elder-plinius.github.io/FABLE-SHOWCASE/aurora/) |
+| `biome-globe` | [https://elder-plinius.github.io/FABLE-SHOWCASE/biome-globe/](https://elder-plinius.github.io/FABLE-SHOWCASE/biome-globe/) |
+| `boids` | [https://elder-plinius.github.io/FABLE-SHOWCASE/boids/](https://elder-plinius.github.io/FABLE-SHOWCASE/boids/) |
+| `cellular-cathedral` | [https://elder-plinius.github.io/FABLE-SHOWCASE/cellular-cathedral/](https://elder-plinius.github.io/FABLE-SHOWCASE/cellular-cathedral/) |
+| `chladni` | [https://elder-plinius.github.io/FABLE-SHOWCASE/chladni/](https://elder-plinius.github.io/FABLE-SHOWCASE/chladni/) |
+| `chronos` | [https://elder-plinius.github.io/FABLE-SHOWCASE/chronos/](https://elder-plinius.github.io/FABLE-SHOWCASE/chronos/) |
+| `clockwork` | [https://elder-plinius.github.io/FABLE-SHOWCASE/clockwork/](https://elder-plinius.github.io/FABLE-SHOWCASE/clockwork/) |
+| `constellation` | [https://elder-plinius.github.io/FABLE-SHOWCASE/constellation/](https://elder-plinius.github.io/FABLE-SHOWCASE/constellation/) |
+| `crystallize` | [https://elder-plinius.github.io/FABLE-SHOWCASE/crystallize/](https://elder-plinius.github.io/FABLE-SHOWCASE/crystallize/) |
+| `darwin-derby` | [https://elder-plinius.github.io/FABLE-SHOWCASE/darwin-derby/](https://elder-plinius.github.io/FABLE-SHOWCASE/darwin-derby/) |
+| `embers` | [https://elder-plinius.github.io/FABLE-SHOWCASE/embers/](https://elder-plinius.github.io/FABLE-SHOWCASE/embers/) |
+| `event-horizon` | [https://elder-plinius.github.io/FABLE-SHOWCASE/event-horizon/](https://elder-plinius.github.io/FABLE-SHOWCASE/event-horizon/) |
+| `fractal-voyager` | [https://elder-plinius.github.io/FABLE-SHOWCASE/fractal-voyager/](https://elder-plinius.github.io/FABLE-SHOWCASE/fractal-voyager/) |
+| `galaxy-forge` | [https://elder-plinius.github.io/FABLE-SHOWCASE/galaxy-forge/](https://elder-plinius.github.io/FABLE-SHOWCASE/galaxy-forge/) |
+| `glassworks` | [https://elder-plinius.github.io/FABLE-SHOWCASE/glassworks/](https://elder-plinius.github.io/FABLE-SHOWCASE/glassworks/) |
+| `harmonia` | [https://elder-plinius.github.io/FABLE-SHOWCASE/harmonia/](https://elder-plinius.github.io/FABLE-SHOWCASE/harmonia/) |
+| `hexcrawl` | [https://elder-plinius.github.io/FABLE-SHOWCASE/hexcrawl/](https://elder-plinius.github.io/FABLE-SHOWCASE/hexcrawl/) |
+| `infinite-cathedral` | [https://elder-plinius.github.io/FABLE-SHOWCASE/infinite-cathedral/](https://elder-plinius.github.io/FABLE-SHOWCASE/infinite-cathedral/) |
+| `ink-flow` | [https://elder-plinius.github.io/FABLE-SHOWCASE/ink-flow/](https://elder-plinius.github.io/FABLE-SHOWCASE/ink-flow/) |
+| `kinetic-type` | [https://elder-plinius.github.io/FABLE-SHOWCASE/kinetic-type/](https://elder-plinius.github.io/FABLE-SHOWCASE/kinetic-type/) |
+| `koi-pond` | [https://elder-plinius.github.io/FABLE-SHOWCASE/koi-pond/](https://elder-plinius.github.io/FABLE-SHOWCASE/koi-pond/) |
+| `labyrinth` | [https://elder-plinius.github.io/FABLE-SHOWCASE/labyrinth/](https://elder-plinius.github.io/FABLE-SHOWCASE/labyrinth/) |
+| `lava-lamp` | [https://elder-plinius.github.io/FABLE-SHOWCASE/lava-lamp/](https://elder-plinius.github.io/FABLE-SHOWCASE/lava-lamp/) |
+| `loom` | [https://elder-plinius.github.io/FABLE-SHOWCASE/loom/](https://elder-plinius.github.io/FABLE-SHOWCASE/loom/) |
+| `lsystem-garden` | [https://elder-plinius.github.io/FABLE-SHOWCASE/lsystem-garden/](https://elder-plinius.github.io/FABLE-SHOWCASE/lsystem-garden/) |
+| `mandala` | [https://elder-plinius.github.io/FABLE-SHOWCASE/mandala/](https://elder-plinius.github.io/FABLE-SHOWCASE/mandala/) |
+| `metropolis` | [https://elder-plinius.github.io/FABLE-SHOWCASE/metropolis/](https://elder-plinius.github.io/FABLE-SHOWCASE/metropolis/) |
+| `midnight-radio` | [https://elder-plinius.github.io/FABLE-SHOWCASE/midnight-radio/](https://elder-plinius.github.io/FABLE-SHOWCASE/midnight-radio/) |
+| `moth-lamp` | [https://elder-plinius.github.io/FABLE-SHOWCASE/moth-lamp/](https://elder-plinius.github.io/FABLE-SHOWCASE/moth-lamp/) |
+| `neon-circuit` | [https://elder-plinius.github.io/FABLE-SHOWCASE/neon-circuit/](https://elder-plinius.github.io/FABLE-SHOWCASE/neon-circuit/) |
+| `noir-terminal` | [https://elder-plinius.github.io/FABLE-SHOWCASE/noir-terminal/](https://elder-plinius.github.io/FABLE-SHOWCASE/noir-terminal/) |
+| `ocean` | [https://elder-plinius.github.io/FABLE-SHOWCASE/ocean/](https://elder-plinius.github.io/FABLE-SHOWCASE/ocean/) |
+| `oracle` | [https://elder-plinius.github.io/FABLE-SHOWCASE/oracle/](https://elder-plinius.github.io/FABLE-SHOWCASE/oracle/) |
+| `orbital` | [https://elder-plinius.github.io/FABLE-SHOWCASE/orbital/](https://elder-plinius.github.io/FABLE-SHOWCASE/orbital/) |
+| `paper-garden` | [https://elder-plinius.github.io/FABLE-SHOWCASE/paper-garden/](https://elder-plinius.github.io/FABLE-SHOWCASE/paper-garden/) |
+| `particle-life` | [https://elder-plinius.github.io/FABLE-SHOWCASE/particle-life/](https://elder-plinius.github.io/FABLE-SHOWCASE/particle-life/) |
+| `pendulum-chaos` | [https://elder-plinius.github.io/FABLE-SHOWCASE/pendulum-chaos/](https://elder-plinius.github.io/FABLE-SHOWCASE/pendulum-chaos/) |
+| `pinball` | [https://elder-plinius.github.io/FABLE-SHOWCASE/pinball/](https://elder-plinius.github.io/FABLE-SHOWCASE/pinball/) |
+| `poster-studio` | [https://elder-plinius.github.io/FABLE-SHOWCASE/poster-studio/](https://elder-plinius.github.io/FABLE-SHOWCASE/poster-studio/) |
+| `prism-synth` | [https://elder-plinius.github.io/FABLE-SHOWCASE/prism-synth/](https://elder-plinius.github.io/FABLE-SHOWCASE/prism-synth/) |
+| `reaction-diffusion` | [https://elder-plinius.github.io/FABLE-SHOWCASE/reaction-diffusion/](https://elder-plinius.github.io/FABLE-SHOWCASE/reaction-diffusion/) |
+| `reef` | [https://elder-plinius.github.io/FABLE-SHOWCASE/reef/](https://elder-plinius.github.io/FABLE-SHOWCASE/reef/) |
+| `sandfall` | [https://elder-plinius.github.io/FABLE-SHOWCASE/sandfall/](https://elder-plinius.github.io/FABLE-SHOWCASE/sandfall/) |
+| `shodo` | [https://elder-plinius.github.io/FABLE-SHOWCASE/shodo/](https://elder-plinius.github.io/FABLE-SHOWCASE/shodo/) |
+| `slime-mold` | [https://elder-plinius.github.io/FABLE-SHOWCASE/slime-mold/](https://elder-plinius.github.io/FABLE-SHOWCASE/slime-mold/) |
+| `starforge` | [https://elder-plinius.github.io/FABLE-SHOWCASE/starforge/](https://elder-plinius.github.io/FABLE-SHOWCASE/starforge/) |
+| `swarm-symphony` | [https://elder-plinius.github.io/FABLE-SHOWCASE/swarm-symphony/](https://elder-plinius.github.io/FABLE-SHOWCASE/swarm-symphony/) |
+| `synthwave` | [https://elder-plinius.github.io/FABLE-SHOWCASE/synthwave/](https://elder-plinius.github.io/FABLE-SHOWCASE/synthwave/) |
+| `terraform` | [https://elder-plinius.github.io/FABLE-SHOWCASE/terraform/](https://elder-plinius.github.io/FABLE-SHOWCASE/terraform/) |
+| `tidepool` | [https://elder-plinius.github.io/FABLE-SHOWCASE/tidepool/](https://elder-plinius.github.io/FABLE-SHOWCASE/tidepool/) |
+| `voxel-atelier` | [https://elder-plinius.github.io/FABLE-SHOWCASE/voxel-atelier/](https://elder-plinius.github.io/FABLE-SHOWCASE/voxel-atelier/) |
+| `wavelab` | [https://elder-plinius.github.io/FABLE-SHOWCASE/wavelab/](https://elder-plinius.github.io/FABLE-SHOWCASE/wavelab/) |
+| `weathervane` | [https://elder-plinius.github.io/FABLE-SHOWCASE/weathervane/](https://elder-plinius.github.io/FABLE-SHOWCASE/weathervane/) |
+| `wfc-weaver` | [https://elder-plinius.github.io/FABLE-SHOWCASE/wfc-weaver/](https://elder-plinius.github.io/FABLE-SHOWCASE/wfc-weaver/) |
+| `wordsmith` | [https://elder-plinius.github.io/FABLE-SHOWCASE/wordsmith/](https://elder-plinius.github.io/FABLE-SHOWCASE/wordsmith/) |
+| `zen-rake` | [https://elder-plinius.github.io/FABLE-SHOWCASE/zen-rake/](https://elder-plinius.github.io/FABLE-SHOWCASE/zen-rake/) |
+
 
 ### System prompt archives (CL4R1T4S + living docs)
 
