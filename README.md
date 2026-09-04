@@ -66,6 +66,7 @@ Apps, games, and demos that say they were made by / with Claude Fable 5 or 5.1.
 | [MiaAI-Lab/Fable-5.1-100-HTML-Files](https://github.com/MiaAI-Lab/Fable-5.1-100-HTML-Files) | 100 one-file HTML visual studies + prompts |
 | [kdeverett918/made-with-fable](https://github.com/kdeverett918/made-with-fable) | Community gallery of Fable-built creations |
 | [karanb192/fable5-demos](https://github.com/karanb192/fable5-demos) | One-shot physics/math HTML sims |
+| [emollick/abyssal-living-deep](https://github.com/emollick/abyssal-living-deep) | Procedural underwater world ([live](https://abyssal-living-deep.netlify.app)); author ships frequent Claude Fable builds (repo README does not name the model) |
 
 ### Games
 
@@ -91,6 +92,15 @@ Apps, games, and demos that say they were made by / with Claude Fable 5 or 5.1.
 | [teuzowebdeveloper9/world-light](https://github.com/teuzowebdeveloper9/world-light) | Infinite R3F procedural world |
 | [umomany/claudi](https://github.com/umomany/claudi) | Single-file browser Claude IDE, built by Fable 5 |
 | [justinbuildsmov/oracle](https://github.com/justinbuildsmov/oracle) | Head-to-head: Fable 5.1 vs GPT-6 Astra on prediction markets |
+
+
+## Related Claude models (not Fable)
+
+Strong demos from other Claude lines — listed so they are not mixed into Fable claims.
+
+| Repo | Notes |
+|------|--------|
+| [achimala/TheLongSilence](https://github.com/achimala/TheLongSilence) | Space exploration game **built by Claude Opus 5**; play [longsilence.anshu.dev](https://longsilence.anshu.dev/) |
 
 ## Other catalogs
 
