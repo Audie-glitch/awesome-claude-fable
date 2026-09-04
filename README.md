@@ -104,16 +104,20 @@ Strong demos from other Claude lines — listed so they are not mixed into Fable
 
 ## Other catalogs
 
-| Repo | Notes |
-|------|--------|
-| [Anil-matcha/awesome-claude-fable-5](https://github.com/Anil-matcha/awesome-claude-fable-5) | Broader Fable 5 use-cases / tutorials (first-party style) |
-| [Anil-matcha/awesome-claude-fable-5-1](https://github.com/Anil-matcha/awesome-claude-fable-5-1) | Fable 5.1 launch / migration notes |
-| [EvoLinkAI/awesome-claude-fable-5](https://github.com/EvoLinkAI/awesome-claude-fable-5) | Multilingual Fable 5 catalog (similar layout) |
-| [thenicolas1894/awesome-claude-fable-5-prompt-vault](https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault) | Fable 5 guide / prompts / benchmarks vault |
-| [benchengai/awesome-fable-5-1-cookbook](https://github.com/benchengai/awesome-fable-5-1-cookbook) | Fable 5.1 cookbook (early / sparse — check before relying) |
-| [Anil-matcha/awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) | OpenAI Astra twin (official cases) |
-| [Anil-matcha/Awesome-GPT-5.6-API-and-Prompts](https://github.com/Anil-matcha/Awesome-GPT-5.6-API-and-Prompts) | GPT-5.6 Sol/Terra/Luna-era prompt catalog |
-| [kunjee17/awesome-fable](https://github.com/kunjee17/awesome-fable) | **F# Fable** (compiler) — different project, same word |
+Audited 2026-09-04. Verdicts below; MuAPI/EvoLink CTAs noted where present.
+
+| Repo | ★ | Verdict |
+|------|---:|---------|
+| [Anil-matcha/awesome-claude-fable-5](https://github.com/Anil-matcha/awesome-claude-fable-5) | 386 | **Keep** — largest twin (~2.8k-line README); MuAPI CTA |
+| [Anil-matcha/awesome-claude-fable-5-1](https://github.com/Anil-matcha/awesome-claude-fable-5-1) | 2 | **Keep** — Fable 5.1 migration / effort notes |
+| [EvoLinkAI/awesome-claude-fable-5](https://github.com/EvoLinkAI/awesome-claude-fable-5) | 49 | **Keep** — multilingual mirror of Anil layout; EvoLink CTA |
+| [thenicolas1894/awesome-claude-fable-5-prompt-vault](https://github.com/thenicolas1894/awesome-claude-fable-5-prompt-vault) | 138 | **Keep light** — landing/overview + `index.html`, not a deep link farm |
+| [benchengai/awesome-fable-5-1-cookbook](https://github.com/benchengai/awesome-fable-5-1-cookbook) | 0 | **Keep** — real cookbook (effort levels, cache, 1M context); stars lag content |
+| [Anil-matcha/awesome-gpt-6-astra](https://github.com/Anil-matcha/awesome-gpt-6-astra) | 1 | **Keep** — OpenAI Astra first-party cases |
+| [Anil-matcha/Awesome-GPT-5.6-API-and-Prompts](https://github.com/Anil-matcha/Awesome-GPT-5.6-API-and-Prompts) | 4 | **Keep w/ caveat** — GPT-5.6 prompts; heavy MuAPI |
+| [kunjee17/awesome-fable](https://github.com/kunjee17/awesome-fable) | — | **Different project** — F# compiler ecosystem |
+
+**Dropped:** empty shells `hugo0129/awesome-gpt6`, `kookhhi566-eng/awesome-prompts-2026`.
 
 ## Sister list (OpenAI)
 
