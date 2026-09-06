@@ -173,7 +173,11 @@ Apps, games, and demos that say they were made by / with Claude Fable 5 or 5.1.
 
 | Repo | Notes |
 |------|--------|
-| [bridge-mind/turbo-kart-rush](https://github.com/bridge-mind/turbo-kart-rush) | Procedural Three.js kart racer; five Fable 5.1 sub-agents |
+| [bridge-mind/turbo-kart-rush](https://github.com/bridge-mind/turbo-kart-rush) | Arcade kart racer in the spirit of Mario Kart, built entirely with Three.js. 100% procedural assets. Built by five Claude Fable 5.1 sub-agents from one prompt. ([live](https://bridge-mind.github.io/turbo-kart-rush/)) |
+| [Nipale-ai/fable-5-1-one-prompt-game](https://github.com/Nipale-ai/fable-5-1-one-prompt-game) | One prompt: Claude Fable 5.1 drove Blender, FLUX.2, LTX video and ACE-Step on a local RTX 5090 and shipped a playable 3D game in one HTML file. 24 minutes, first try. ([live](https://nipale-ai.github.io/fable-5-1-one-prompt-game/)) |
+| [Nipale-ai/blocks-openworld](https://github.com/Nipale-ai/blocks-openworld) | An open-world game built overnight by Claude Fable 5.1 — drive, shoot, get chased. Includes every brief, gate and measurement. ([live](https://nipale-ai.github.io/blocks-openworld/spiel/)) |
+| [RoboTennis](https://robotennis-web.vercel.app/) | RoboTennis: an arcade robot tennis game by chongdashu. Serve, rally and smash against the CPU at the Robo Open. (AI collaborators include Fable 5 / 5.1) |
+| [Ashen-Skool/Aot-Fable-5.1](https://github.com/Ashen-Skool/Aot-Fable-5.1) | A ten-minute playable Attack on Titan homage in Unity 6, built through the CLI on the Mac Studio by a gauntlet loop of builder and critic sub-agents. ([live](https://ashen-skool.github.io/Aot-Fable-5.1/)) |
 | [bridge-mind/apex-formula](https://github.com/bridge-mind/apex-formula) | Browser F1 weekend sim; Fable 5.1 + ten sub-agents |
 | [INONONO66/fable-5.1-mario](https://github.com/INONONO66/fable-5.1-mario) | SMB 1-1 in one HTML file, one-shot |
 | [sorrycc/fable-arcade](https://github.com/sorrycc/fable-arcade) | HTML games one-shot by Fable 5.1+ |
@@ -187,6 +191,7 @@ Apps, games, and demos that say they were made by / with Claude Fable 5 or 5.1.
 
 | Repo | Notes |
 |------|--------|
+| [MengTo/sublevel-studio](https://github.com/MengTo/sublevel-studio) | A single-file Three.js studio concept with an interactive Kyoto lobby, arcade, portfolio CRTs, and editorial case studies. ([live](https://mengto.github.io/sublevel-studio/)) |
 | [thebuggeddev/modkeys](https://github.com/thebuggeddev/modkeys) | 3D keyboard ecommerce platform |
 | [shakeebshaan/packet-highway](https://github.com/shakeebshaan/packet-highway) | Live packet traffic as 3D highway (Windows desktop) |
 | [theryanbyrd/asteroid_fable](https://github.com/theryanbyrd/asteroid_fable) | WebGL map of 1.55M asteroids (NASA/JPL) |
